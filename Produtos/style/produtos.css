@@ -71,6 +71,12 @@ img{
 
 #image-gallery .modal-footer{
     display: flex;
+    background: lightgrey;
+    border-radius: 10px;
+    
+}
+.whatsrede{
+    margin-left: 1%;
 }
 
 .thumb{
